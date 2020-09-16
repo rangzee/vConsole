@@ -1,0 +1,15 @@
+﻿<script src='https://cdn.staticfile.org/vConsole/3.3.4/vconsole.min.js'></script>
+<script type="text/javascript">
+  window.vConsole = new window.VConsole();
+  console.log('vConsole initialized. @' + new Date());
+</script>
+
+可用的CDN列表：
+https://cdn.staticfile.org/vConsole/3.3.4/vconsole.min.js
+http://cdn.staticfile.org/vConsole/3.3.4/vconsole.min.js
+https://s0.pstatp.com/cdn/expire-1-M/vConsole/3.3.0/vconsole.min.js
+https://cdn.bootcdn.net/ajax/libs/vConsole/3.3.4/vconsole.min.js
+https://cdn.bootcss.com/vConsole/3.3.4/vconsole.min.js （cdn.bootcss.com/ = cdn.bootcdn.net/ajax/libs/）
+https://cdn.jsdelivr.net/npm/vconsole@3.3.4/dist/vconsole.min.js
+https://unpkg.com/vconsole
+https://cdnjs.cloudflare.com/ajax/libs/vConsole/3.3.4/vconsole.min.js
